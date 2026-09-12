@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Customer Churn & Retention Analytics
 
 ## Project Overview
@@ -105,3 +106,6 @@ customer-churn-analytics/
 ├── requirements.txt                           # Project dependencies
 └── README.md                                  # Main project documentation
 ```
+=======
+# customer-churn-retention-analytics
+>>>>>>> 9872c132c42b7b805e85051aec44a9956db8ddd4
