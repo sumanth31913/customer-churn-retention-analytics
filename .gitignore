@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.pyc
+
+# Local runner scripts (optional)
+build_analysis.py
+run_notebook_execution.py
+build_notebook.py
+verify_sql.py
